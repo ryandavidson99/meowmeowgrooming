@@ -1,0 +1,323 @@
+
+body{
+font-family:  "Montserrat";
+text-align: center;
+background-color: #708090;
+
+back
+}
+h1,h2,h3,h4,h5,h6{
+  font-family: "Montserrat";
+}
+p{
+color: black;
+font-family: "Montserrat";
+}
+/* headings */
+header {
+  overflow: hidden;
+  background-color: #708090;
+  padding: 20px 10px;
+  height: 60px;
+
+
+}
+.active{
+  ;
+  position: relative;
+  right:0px;
+  color: white;
+}
+
+.email{
+  position: relative;
+  color: white;
+left: 550px;
+
+
+
+}
+.facebook{
+position: relative;
+  color: white;
+
+  right: 350px;
+
+}
+.insta1 {
+  position: relative;
+  right :300px;
+
+
+  color: white;
+
+
+}
+
+/* Style the header links */
+.header {
+  float: right;
+  color: green;
+  text-align: center;
+  padding: 12px;
+  text-decoration: none;
+  line-height: 10px;
+  border-radius: 4px;
+  margin: 0;
+  position: absolute;
+
+
+
+}
+
+
+.big-heading{
+  font-family: Georgia, serif;
+  font-size: 30px;
+  line-height: 1.3;
+padding-top: 50px;
+color: black;}
+.section-heading{
+  font-size: 2.5rem;
+  line-height: 1.5;
+  color:black;
+  }
+}
+.row{
+  line-height: 10px;
+}
+.thai
+{font-family: Georgia, serif;
+margin-top: 10px;
+font-size: 25px;
+line-height: 1.3;
+padding-bottom: 60px;
+color: black;
+position: relative;
+top: 50px;}
+
+.navbar-brand{
+  color: black;
+  font-size: 80px;
+  position: relative;
+  bottom: 50px;
+}
+/* container section */
+.container-fluid{
+  padding: 10% 15%;
+.social-icon fas fa-regular fa-light fa-envelope
+}
+/* section */
+ .colored-section{
+   background-color:#ff6666;
+   color: #fff;
+}
+
+  .white-section{
+  background-color: #E6E6FA;
+  }
+  .logo-image{
+     width: 150px;
+     height: 150px;
+     border-radius: 1750%;
+     overflow: hidden;
+     position: relative;
+
+    left: 80px;
+    top: -10px;
+
+
+
+ }
+ .help{     width: 150px;
+      height: 150px;
+      border-radius: 0%;
+      overflow: hidden;
+      position: relative;
+
+ }
+ .lie-cat{
+
+position: relative;
+height: 40%;
+width: 40%;
+left: 450px;
+top:15px;
+ }
+
+
+/* navigation bar */
+.navbar{
+  padding-top: ;
+}
+.navbar-brand{
+font-family:"Montserrat";
+font-size: 2rem;
+font-weight: bold;
+}
+.nav-item{
+  position: relative;
+  bottom: 100px;
+
+}
+.nav-link{
+  font-size: 1.2rem;
+  font-family: "Montserrat"
+}
+/* download button */
+.download-button{
+  margin: 5% 3% 5%
+}
+/* title section */
+#title {
+  position: relative;
+text-align: left;
+padding-bottom: 100px;
+color: black;
+}
+#title  .container-fluid{
+  padding: 1% 10% 5%;
+}
+
+/* title image */
+.title-image
+{ height: 100%;
+  width: 50%;
+padding-right: 50px
+z-index: 0;
+position:relative;
+left: 60%;
+top: 80px;
+
+}
+.athome{
+  position: relative;
+  left: 0px;
+  top: 80px;
+  font-size: 18px;
+  color: black;
+  font-style: bold;
+
+}
+
+/* feature section */
+#features{
+
+
+
+
+
+  height:650px;
+}
+.feature-box{
+  padding: 5%;
+  position: relative;
+  bottom: 50px;
+}
+.icon{
+  color:#ef8172;
+  margin-bottom: 1rem;
+}
+.icon:hover{
+  color: #ff4c68;
+}
+.feature-title{
+  font-size: 1.5rem;
+
+
+
+  }
+/* testimoial section  */
+#testimonials{
+  background-color: #ef8172;
+
+  position: relative;
+  bottom: 50px;
+}
+.testimonials_image{
+  width:20%;
+  border-radius: 100%;
+  margin: 20px;
+}
+#press{
+  background-color: #ef8172;
+  padding-bottom: 3%;
+  position: relative;
+  bottom: 200px;
+}
+.press-logo{
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+.carousel-item{
+
+  position: relative;
+}
+.textimonial-text{
+  font-size: 3rem;
+  line-height: 1.5;
+}
+/* price section */
+#pricing{
+  padding: 50px;
+position: relative;
+bottom: 50px;
+
+}
+.price1{
+  position: relative;
+  height: 400px;
+  width: 400px;
+  radius
+}
+.pricing-column{
+   padding:3% 2%;
+}
+@media (max-width:1028px){
+  #title{text-align: center;
+  }
+.title-image{
+  position: static;
+  transform: rotate(0);
+  }
+}
+.price-text{
+  font-size: 3rem;
+  line-height: 1.5;
+}
+#cta{
+  color: white;
+}
+.dog-life{
+}
+#footer{ background-color: #708090;
+  height: 50px;
+  margin-bottom: 50px;
+
+
+
+
+
+}
+.final{
+  position: relative;
+  bottom: 100px;
+  color: #ff6666;
+  background-color:#708090;
+  height: 200px;
+  padding-bottom: 100px;
+
+
+}
+.icons{
+  margin: 20px 10px;
+  color: #ff6666;
+
+}
+.june{
+  color: white;
+}
+}
+.social-icon{
+  margin: 20px 10px;
+}
